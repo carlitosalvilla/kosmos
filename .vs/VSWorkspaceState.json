@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grails-app",
+    "\\grails-app\\controllers",
+    "\\grails-app\\controllers\\consultorios",
+    "\\grails-app\\domain",
+    "\\grails-app\\domain\\com",
+    "\\grails-app\\domain\\com\\kosmos",
+    "\\grails-app\\services",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\webapp"
+  ],
+  "SelectedNode": "\\grails-app\\domain\\com\\kosmos\\Citas.groovy",
+  "PreviewInSolutionExplorer": false
+}
